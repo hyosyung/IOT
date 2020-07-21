@@ -1,0 +1,13 @@
+"C:\Program Files (x86)\IAR Systems\Embedded Workbench 7.3\arm\bin\armproc.dll" 
+
+"C:\Program Files (x86)\IAR Systems\Embedded Workbench 7.3\arm\bin\armsim2.dll" 
+
+"C:\Users\student\Desktop\제출파일\Project_1_홍길동조_M3\RETRO_LCD_MQTT_SUB_M3\Debug\Exe\MINI_TEST.out" 
+
+--plugin "C:\Program Files (x86)\IAR Systems\Embedded Workbench 7.3\arm\bin\armbat.dll" 
+
+--device_macro "C:\Program Files (x86)\IAR Systems\Embedded Workbench 7.3\arm\config\debugger\ST\STM32F1xx_XL.dmac" 
+
+
+
+

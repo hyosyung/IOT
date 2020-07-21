@@ -1,0 +1,16 @@
+﻿  Tcp_Clinet02.c
+c:\users\student\desktop\실습자료_iot_org\214_mqtt_sub_pc_ex\exam01\tcp_clinet02.c(62): warning C4018: '>': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\student\desktop\실습자료_iot_org\214_mqtt_sub_pc_ex\exam01\tcp_clinet02.c(63): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\student\desktop\실습자료_iot_org\214_mqtt_sub_pc_ex\exam01\tcp_clinet02.c(87): warning C4244: '함수': 'int'에서 'uint16_t'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\student\desktop\실습자료_iot_org\214_mqtt_sub_pc_ex\exam01\tcp_clinet02.c(47): warning C4189: 'flag': 지역 변수가 초기화되었으나 참조되지 않았습니다.
+c:\users\student\desktop\실습자료_iot_org\214_mqtt_sub_pc_ex\exam01\tcp_clinet02.c(110): warning C4057: '함수': 'char *'은(는) 약간 다른 기본 형식에 대한 간접 참조가 'uint8_t *'과(와) 다릅니다.
+c:\users\student\desktop\실습자료_iot_org\214_mqtt_sub_pc_ex\exam01\tcp_clinet02.c(119): warning C4057: '함수': 'char *'은(는) 약간 다른 기본 형식에 대한 간접 참조가 'uint8_t *'과(와) 다릅니다.
+c:\users\student\desktop\실습자료_iot_org\214_mqtt_sub_pc_ex\exam01\tcp_clinet02.c(102): warning C4100: 'timeout': 참조되지 않은 정식 매개 변수입니다.
+c:\users\student\desktop\실습자료_iot_org\214_mqtt_sub_pc_ex\exam01\tcp_clinet02.c(236): warning C4057: '함수': 'const char *'은(는) 약간 다른 기본 형식에 대한 간접 참조가 'uint8_t [255]'과(와) 다릅니다.
+c:\users\student\desktop\실습자료_iot_org\214_mqtt_sub_pc_ex\exam01\tcp_clinet02.c(257): warning C4244: '=': 'int'에서 'char'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\student\desktop\실습자료_iot_org\214_mqtt_sub_pc_ex\exam01\tcp_clinet02.c(279): warning C4244: '=': 'int'에서 'char'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\student\desktop\실습자료_iot_org\214_mqtt_sub_pc_ex\exam01\tcp_clinet02.c(301): warning C4244: '=': 'int'에서 'char'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\student\desktop\실습자료_iot_org\214_mqtt_sub_pc_ex\exam01\tcp_clinet02.c(308): warning C4057: '함수': 'const char *'은(는) 약간 다른 기본 형식에 대한 간접 참조가 'uint8_t [255]'과(와) 다릅니다.
+c:\users\student\desktop\실습자료_iot_org\214_mqtt_sub_pc_ex\exam01\tcp_clinet02.c(132): warning C4101: 'msg_id_rcv_2' :참조되지 않은 지역 변수입니다.
+c:\users\student\desktop\실습자료_iot_org\214_mqtt_sub_pc_ex\exam01\tcp_clinet02.c(184): warning C4189: 'Time_First': 지역 변수가 초기화되었으나 참조되지 않았습니다.
+  c_lab1.vcxproj -> C:\Users\student\Desktop\실습자료_iot_org\214_MQTT_SUB_PC_EX\Debug\TCP_Client.exe
